@@ -6,7 +6,7 @@ item Lightsaber
     SubCategory = Blade,
     Weight = 1.5,
     MaxRange = 1.5,
-    WeaponSprite = Katana,
+    WeaponSprite = Lightsaber,
     MinAngle = 0.8,
     HitAngleMod = -30,
     KnockBackOnNoDeath = TRUE,
