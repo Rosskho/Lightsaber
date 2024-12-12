@@ -1,1 +1,1 @@
-Lightsaber mod for PZ. Still working oin it. Needs audio and images.
+This mod adds a lightsaber to PZ. Still working on audio and images. 
